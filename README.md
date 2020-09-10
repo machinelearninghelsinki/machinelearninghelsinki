@@ -9,3 +9,5 @@ Welcome to **Machine Learning Study Group- Helsinki**
 - 🔭 We are currely exploring all kinds of topics in Machine Learning
 - 👯 We can help and collaborate with your projects
 - 🤔 This group is also happy to answer your questions
+Mail: mlstudyhelsinki@gmail.com
+
